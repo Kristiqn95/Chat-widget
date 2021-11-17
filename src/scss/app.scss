@@ -27,3 +27,13 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+
+.chat {
+  width: 240px;
+  height: 320px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background-color: lightblue;
+  box-shadow: lightgray 4px 4px 12px;
+}
